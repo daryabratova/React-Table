@@ -1,0 +1,17 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css");
+
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap");
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.app {
+  &__layout {
+    display: grid;
+    place-items: center;
+    width: 1000px;
+    height: 80vh;
+    margin: 50px auto;
+  }
+}
