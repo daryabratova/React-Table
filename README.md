@@ -4,7 +4,7 @@ Component for displaying tables with sorting, filtering and pagination functiona
 
 ## Demo
 
-Online demo is available [here](https://livelife26.github.io/React-Table/).
+Online demo is available [here](https://daryabratova.github.io/React-Table/).
 
 ## Features
 
